@@ -39,7 +39,7 @@ body {
   
   div.post .post-header div:last-child {
     display: inline-block;
-    text-align: right;
+    text-align: left;
     padding: 5px;
     color: grey;
   }
